@@ -8,7 +8,7 @@ Has a deep interest in software development and, therefore, developed himself on
 
 *   🌍  I'm based in Izmir, Turkey
 *   🖥️  See my portfolio at [Projects](http://github.com/mbakin)
-*   ✉️  You can contact me at [mehmetberkakinn@outlook.com](mailto:mehmetberkakinn@outlook.com)
+*   ✉️  You can contact me at [E-mail](mailto:mehmetberkakinn@outlook.com)
 *   🧠  I'm learning Golang, Typescript
 
 <p align="left">
