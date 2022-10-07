@@ -7,7 +7,7 @@ Software Developer
 Has a deep interest in software development and, therefore, developed himself on frontend and backend technologies. Continuously improves himself, and his understanding of several aspects of web development, software design, and pattern. Able to quickly adapt, solve problems, and learn new things.
 
 *   🌍  I'm based in Izmir, Turkey
-*   🖥️  See my portfolio at [MyPortfolio](http://github.com/mbakin)
+*   🖥️  See my portfolio at [Projects](http://github.com/mbakin)
 *   ✉️  You can contact me at [mehmetberkakinn@outlook.com](mailto:mehmetberkakinn@outlook.com)
 *   🧠  I'm learning Golang, Typescript
 
