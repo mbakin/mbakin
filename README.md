@@ -1,4 +1,4 @@
-### Hi I'm Berk 👋
+### Hi, I'm Berk 👋
 
 I'm a passionate [software developer](https://www.linkedin.com/in/mehmetberkakin). I am also interested in handcrafted items and motorcycles.
 
